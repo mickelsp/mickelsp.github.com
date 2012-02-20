@@ -3,6 +3,7 @@ name: blog-introduction
 layout: post
 title: Blog Launch Date
 data: 2012-02-14
+author: Pascal Mickelson
 category : meta
 tags : [introduction, kickoff, overview, mission]
 ---
