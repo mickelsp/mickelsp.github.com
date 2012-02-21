@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+feed: atom.xml
 ---
 {% include JB/setup %}
 
@@ -39,7 +40,7 @@ title: Home
 {% endfor %}
     
 <div align="center">
-Follow me via<br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
+<em>Follow me via</em><br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
 <a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="mailto:mickelsp@gmail.com"><img src="images/gmail.png"></a>
 </div>
   

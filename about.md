@@ -13,18 +13,15 @@ you, the educated lay person. I started this blog to encourage myself to share w
 While I am not an expert in energy matters, I am a trained scientist, so I will do my best to support everything I say through the scientific literature or 
 published reports so that you can learn more if you wish.
 
-- Follow me via [RSS][atomfeed], [Twitter][twitter], [Github][github], or [Gmail][gmail] 
-- [Contact Me][contactinfo]
-
 [quantumoptics]: http://en.wikipedia.org/wiki/Quantum_optics
 [uofa]: http://www.arizona.edu
-[contactinfo]: /contact.html
-[twitter]: https://twitter.com/#!/mickelsp
-[github]: http://github.com/mickelsp
-[gmail]: mailto:mickelsp@gmail.com
-[atomfeed]: /atom.xml
 
-***
+<div align="center">
+<em>Follow me via</em><br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
+<a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="mailto:mickelsp@gmail.com"><img src="images/gmail.png"></a>
+</div>
+
+<hr>
 
 <div align="center"><br><a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License"
 style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /></div>
