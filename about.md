@@ -26,7 +26,7 @@ published reports so that you can learn more if you wish.
 <div align="center"><br><a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License"
 style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /></div>
 <div>
-<small>This website's <em>contents</em> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a> unless otherwise noted.</small>
+<small>This website's <em>content</em> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a> unless otherwise noted.</small>
 </div>
 <div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /></div>
 <div><small>This website's <em>design</em> is licensed under a <a rel="licence" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>, some rights reserved.</small>
