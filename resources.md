@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Links
 tagline: A blog dedicated to thinking through energy issues--alternative and traditional.
 ---
 {% include JB/setup %}
@@ -18,6 +18,7 @@ I find these blogs useful and entertaining:
 <li><a href="http://flowingdata.com/">Flowing Data</a></li>
 <li><a href="http://nanoscale.blogspot.com/">Nanoscale Views</a></li>
 <li><a href="http://bblonder.wordpress.com">Natural Curiosities</a></li>
+<li><a href="http://arjendu.wordpress.com">Confused at a higher level</a></li>
 <li><a href="http://daringfireball.net">Daring Fireball</a></li>
 </ul>
 </div>
