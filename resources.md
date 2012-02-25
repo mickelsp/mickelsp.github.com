@@ -15,9 +15,9 @@ I also contribute to:
 
 I find these blogs useful and entertaining:
 <ul>
-<li><a href="http://flowingdata.com/">Flowing Data</a></li>
-<li><a href="http://nanoscale.blogspot.com/">Nanoscale Views</a></li>
-<li><a href="http://bblonder.wordpress.com">Natural Curiosities</a></li>
+<li><a href="http://flowingdata.com/">FlowingData</a></li>
+<li><a href="http://nanoscale.blogspot.com/">nanoscale views</a></li>
+<li><a href="http://bblonder.wordpress.com">Natural curiosities</a></li>
 <li><a href="http://arjendu.wordpress.com">Confused at a higher level</a></li>
 <li><a href="http://daringfireball.net">Daring Fireball</a></li>
 </ul>
