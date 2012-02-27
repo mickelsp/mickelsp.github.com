@@ -16,13 +16,17 @@ feed: atom.xml
       {{ post.content }}
       <!--<div class="clear"></div>-->
     </div>
+
+  	    <p class="comments-link">
+      <a href='{{post.url}}#disqus_thread'>Comments</a>
+    </p>
+
     <!--Author name-->  
     <address class="signature">
     <a class="author" href="/contact.html">{{ post.author }}</a> 
     <span class="date">{{ post.date | date_to_long_string }}</span>
     <span class="location">{{ page.location }}</span>
   	</address><!--Author name-->
-  	
   	<div class="rule"><hr/></div>
   	<p></p>
   	<!--<p class="alt-font tight">
@@ -30,9 +34,6 @@ feed: atom.xml
       {% for category in post.categories %}
       <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
       {% endfor %}
-    </p>
-    <p class="comments-link">
-      <a href='{{post.url}}#disqus_thread'>Comments</a>
     </p>-->
 
   </div>
