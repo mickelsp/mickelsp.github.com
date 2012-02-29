@@ -18,7 +18,7 @@ feed: atom.xml
     </div>
 
   	    <p class="comments-link">
-      <a href='{{post.url}}#disqus_thread'>Comments</a>
+      <a href='{{post.url}}/#disqus_thread'>Comments</a>
     </p>
 
     <!--Author name-->  
