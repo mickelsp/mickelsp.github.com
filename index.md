@@ -8,6 +8,7 @@ feed: atom.xml
   {% for post in site.posts %}
     
   <div class="full">
+  	
     <h1 class="entry-title">
       <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
     </h1>
@@ -16,9 +17,9 @@ feed: atom.xml
       {{ post.content }}
       <!--<div class="clear"></div>-->
     </div>
-
-  	    <p class="comments-link">
-      <a href='{{post.url}}/#disqus_thread'>Comments</a>
+  	  	    
+  	  	    <p class="comments-link">
+      <a href='{{post.url}}/#disqus_thread'>Add a Comment</a>
     </p>
 
     <!--Author name-->  
@@ -27,6 +28,7 @@ feed: atom.xml
     <span class="date">{{ post.date | date_to_long_string }}</span>
     <span class="location">{{ page.location }}</span>
   	</address><!--Author name-->
+  	
   	<div class="rule"><hr/></div>
   	<p></p>
   	<!--<p class="alt-font tight">
