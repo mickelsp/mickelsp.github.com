@@ -44,7 +44,7 @@ feed: atom.xml
     
 <div align="center">
 <em>Follow me via</em><br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
-<a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="mailto:mickelsp@gmail.com"><img src="images/gmail.png"></a>
+<a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="https://plus.google.com/114926118372366903256/"><img src="images/gplus.jpg"></a>
 </div>
   
 

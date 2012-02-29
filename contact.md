@@ -8,11 +8,12 @@ title: Contact Information
 
 ![Pascal Mickelson](/images/pascalface.png)
 
-Feel free to contact me: *mickelsp* at *gmail* dot *com*   
+Feel free to contact me: [*pascal@exploringenergies.info*][email]
 
-Follow me via [RSS][atomfeed], [Twitter][twitter], [Github][github], or [Gmail][gmail].
+Follow me via [RSS][atomfeed], [Twitter][twitter], [Github][github], or [Google Plus][gplus].
 
 [twitter]: https://twitter.com/#!/mickelsp
 [github]: http://github.com/mickelsp
-[gmail]: mailto:mickelsp@gmail.com
+[gplus]: https://plus.google.com/114926118372366903256/
 [atomfeed]: /atom.xml
+[email]: mailto:pascal@exploringenergies.info
