@@ -13,7 +13,7 @@ Two presentations at the [Energy Research Workshop][energyworkshop] were dedicat
 
 Why do people get excited about nuclear energy?  Because you want your energy source to have lots of energy for a very small quantity AND you would like your energy source not to take up too much space.  Uranium-235, a commonly used nuclear fuel, meets both of these criteria.  For instance, you would need [16,000 times more coal than Uranium-235 (by weight)][uraniumcoalcomp] to generate the same amount of electricity.
 
-Nuclear energy is also appealing because climate change is a significant concern in today's world and because many traditional sources of energy (e.g. coal and oil) spit out tons of pollutants which exacerbate climate change.  In contrast, nuclear energy is a zero-carbon-emission source of electricity and does not directly contribute to climate change.  It is energy intensive to process into a usable form, however, and [most of the uranium used in the United States is actually imported][uraniumimport] from other countries, so processing and transport indirectly contribute to climate change.
+Nuclear energy is also appealing because climate change is a significant concern in today's world and because many traditional sources of energy (e.g. coal and oil) spit out tons of pollutants which exacerbate climate change.  In contrast, nuclear energy is a zero-carbon-emission source of electricity and does not directly contribute to climate change.  (It is energy intensive to process into a usable form, however, and [most of the uranium used in the United States is actually imported][uraniumimport] from other countries, so processing and transport indirectly contribute to climate change.)
 
 So if the advantages of nuclear energy are so great, why are we not building nuclear plants as fast as possible?  Because it is expensive.  And secondarily, because there are [safety concerns that surround nuclear plants][nuclearsafety].  Of course, the two things are not independent of each other because necessary safety regulations do increase the cost of building and operating a nuclear power plant.  The high capital cost of building nuclear plants means [no new plants have been commissioned since 1975][lastpermitted] and of those, [only one has been completed in the last twenty years][lastplantbuilt].  Furthermore, if you look at the size of different power companies, [investing up to $17 billion][costofplant] in a new, full-sized nuclear plant can mean betting the existence of the entire company on one project.  That is a tall order and a big reason why nuclear is a hard sell without significant government subsidies.
 
@@ -30,7 +30,7 @@ Ultimately, the success of small modular nuclear reactors will depend on address
 [nuclearstartup]: http://nuscale.com/
 [costofplant]: http://www.neimagazine.com/story.asp?sectioncode=147&storyCode=2050690
 [lastplantbuilt]: http://www.eia.gov/tools/faqs/faq.cfm?id=228&t=21
-[lastpermitted]: http://www.eia.gov/tools/faqs/faq.cfm?id=227&t=21
+[lastpermitted]: http://www.eia.gov/tools/faqs/faq.cfm?id=228&t=21
 [nuclearsafety]: http://www.ucsusa.org/nuclear_power/nuclear_power_risk/safety/
 [ucsreport]: http://www.ucsusa.org/assets/documents/nuclear_power/lyman-appropriations-subcom-7-14-11.pdf
 [passivecooling]: http://nuscale.com/ot-Facts-NuScale-System-Technology.php
