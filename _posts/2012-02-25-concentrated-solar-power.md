@@ -4,7 +4,7 @@ layout: post
 title: The Other Solar Power
 data: 2012-02-25
 author: Pascal Mickelson
-category : renewable energy
+category : solar energy
 tags : [renewable energy, solar power, concentrated solar, steam turbine, generation]
 ---
 {% include JB/setup %}
