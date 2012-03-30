@@ -25,6 +25,8 @@ Cooling of nuclear material after it has undergone fission is always one of the 
 
 Ultimately, the success of small modular nuclear reactors will depend on addressing safety concerns to at least the level of existing nuclear reactors.  This process will also have to include satisfactory solutions to disposal of radioactive material, an issue that pertains to both large and small nuclear plants.  If it costs too much to meet these standards, then it seems unlikely that small reactors will contribute to the energy landscape no matter their potential benefits.
 
+Update (30 March 2012): [Scientific American][sciam] has posted [a detailed article about small modular nuclear reactors][sciamSMR].  One point I did not make in my original post is that the military, particularly the Navy, has been using small nuclear reactors in submarines and on aircraft carriers for about 50 years with few to no significant accidents, so it *can* be done relatively safely with strict enough oversight.
+
 [energyworkshop]: http://www.aps.org/meetings/march/events/workshops/energy/index.cfm
 [SMApresentation]: http://www.aps.org/units/gera/meetings/march12/index.cfm
 [nuclearstartup]: http://nuscale.com/
@@ -37,3 +39,5 @@ Ultimately, the success of small modular nuclear reactors will depend on address
 [uraniumcoalcomp]: http://web.ead.anl.gov/uranium/guide/facts/
 [uraniumimport]: http://www.eia.gov/kids/energy.cfm?page=nuclear_home-basics#nuclear_where-basics
 [smallvslargestudy]: http://www.las-ans.org.br/Papers%202007/pdfs/Paper062.pdf
+[sciamSMR]: http://www.scientificamerican.com/article.cfm?id=small-reactors-bid-to-revive-nuclear-power
+[sciam]: http://www.scientificamerican.com/
