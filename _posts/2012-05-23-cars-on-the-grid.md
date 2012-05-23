@@ -5,7 +5,7 @@ title: "Making Electric Cars Part of the Grid"
 data: 2012-05-23
 author: Pascal Mickelson
 category : electricity grid
-tags : [electricity grid, electric cars, environmental impact]
+tags : [electricity grid, electric cars, electricity storage]
 ---
 {% include JB/setup %}
 
