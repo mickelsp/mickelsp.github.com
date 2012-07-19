@@ -21,4 +21,12 @@ I find these blogs useful and entertaining:
 <li><a href="http://arjendu.wordpress.com">Confused at a higher level</a></li>
 <li><a href="http://daringfireball.net">Daring Fireball</a></li>
 </ul>
+
+I support these organizations:
+<ul>
+<li><a href="http://internetdefenseleague.org/">Internet Defense League</a></li>
+<li><a href="http://www.ucsusa.org/">Union of Concerned Scientists</a></li>
+<li><a href="http://www.sciencedebate.org/">Science Debate Dot Org</a></li>
+</ul>
+
 </div>

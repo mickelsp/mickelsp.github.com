@@ -46,19 +46,6 @@ feed: atom.xml
 <em>Follow me via</em><br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
 <a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="https://plus.google.com/114926118372366903256/"><img src="images/gplus.jpg"></a>
 </div>
-
-<script type="text/javascript">
-    window._idl = {};
-    _idl.variant = "banner";
-    _idl.campaign = "idl_launch";
-    (function() {
-        var idl = document.createElement('script');
-        idl.type = 'text/javascript';
-        idl.async = true;
-        idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
-        document.getElementsByTagName('body')[0].appendChild(idl);
-    })();
-</script>
   
 
 
