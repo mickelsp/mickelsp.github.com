@@ -15,12 +15,12 @@ That sounds like the kind of question that should be answered with a smart phone
 
 
 <div align="center">
-<img src="/images/carbon_dioxide_sources.jpg" alt="Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. 40% is electricity, 31% is transportation, 14% is industry, 10% is residential and commercial, and the remaining 5% is from other, non-fossil fuel contributions." width="500" height="513"><br>
-<small>Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. Data from the [Inventory of U.S. Greenhouse Gas Emissions and Sinks][ghginventory].</small>
+<img src="/images/carbon_dioxide_sources.jpg" alt="Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. 40% is electricity, 31% is transportation, 14% is industry, 10% is residential and commercial, and the remaining 5% is from other, non-fossil fuel contributions." width="400" height="411"><br>
+<small>Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. Data from the <a href="http://www.epa.gov/climatechange/ghgemissions/usinventoryreport.html>Inventory of U.S. Greenhouse Gas Emissions and Sinks</a>.</small>
 </div>
 
 
-A few things jump out at me:  first of all, electricity and transportation make up more than 70% of all carbon dioxide emissions.  Secondly, the 14% that industry contributes does not count electricity generation, so industry generates quite a bit of carbon dioxide independently of the energy required to manufacture products and/or to extract materials.  Finally, we consumers are not without guilt, as we contribute to the carbon dioxide load just by living in our own homes (plus, our guilt probably increases once we account for the electricity we consume at a high rate).
+A few things jump out at me:  first of all, electricity and transportation make up more than 70% of all carbon dioxide emissions.  Secondly, the 14% that industry contributes does not count electricity generation, so industry generates quite a bit of carbon dioxide independently of the energy required to manufacture products and/or to extract materials.  Finally, we consumers are not without guilt, as we contribute to the carbon dioxide load just by living in our own homes.
 
 Diving a little deeper, the chart above does not tell you anything about what kinds of transportation generate the most carbon dioxide. The [Inventory of U.S. Greenhouse Gas Emissions and Sinks][ghginventory] reveals that a massive 65% of all U.S. transportation emissions result from combustion in motor vehicles.  Almost all the rest comes from burning diesel and jet fuel in heavy trucks and aircraft.
 
