@@ -15,7 +15,7 @@ That sounds like the kind of question that should be answered with a smart phone
 
 
 <div align="center">
-<img src="/images/carbon_dioxide_sources.jpg" alt="Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. 40% is electricity, 31% is transportation, 14% is industry, 10% is residential and commercial, and the remaining 5% is from other, non-fossil fuel contributions." width="400" height="411"><br>
+<img src="/images/carbon_dioxide_sources.png" alt="Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. 40% is electricity, 31% is transportation, 14% is industry, 10% is residential and commercial, and the remaining 5% is from other, non-fossil fuel contributions." width="400" height="411"><br>
 <small>Pie chart showing the U.S. contributions to carbon dioxide emissions due to various sources. Data from the <a href="http://www.epa.gov/climatechange/ghgemissions/usinventoryreport.html">Inventory of U.S. Greenhouse Gas Emissions and Sinks</a>.</small>
 </div>
 
