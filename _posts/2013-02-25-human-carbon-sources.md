@@ -5,7 +5,7 @@ title: "What contributes the most carbon dioxide to global warming?"
 data: 2013-02-25
 author: Pascal Mickelson
 category : climate change
-tags : [climate change; anthropogenic; carbon dioxide; sources; reduction]
+tags : [climate change, anthropogenic, carbon dioxide, sources, emissions reductions]
 ---
 {% include JB/setup %}
 
