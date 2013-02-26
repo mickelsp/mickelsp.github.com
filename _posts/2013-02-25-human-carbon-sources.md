@@ -1,7 +1,7 @@
 ---
 name: human-carbon-sources
 layout: post
-title: "What contributes the most carbon dioxide to global warming?"
+title: "What Sources Contribute the Most Carbon Dioxide to Emissions?"
 data: 2013-02-25
 author: Pascal Mickelson
 category : climate change
