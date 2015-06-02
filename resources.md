@@ -21,5 +21,3 @@ I support these organizations:
 <li><a href="http://www.ucsusa.org/">Union of Concerned Scientists</a></li>
 <li><a href="http://www.sciencedebate.org/">Science Debate Dot Org</a></li>
 </ul>
-
-</div>
