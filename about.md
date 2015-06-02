@@ -5,13 +5,9 @@ tagline: A blog dedicated to thinking through energy issues--alternative and tra
 ---
 {% include JB/setup %}
 
-I am a physicist working for a small physics and engineering firm called [Physics, Materials, and Applied Mathematics Research][pmam]. Previously, I was a post-doctoral researcher in [experimental quantum optics][quantumoptics] at the [University of Arizona][uofa]. 
-I am interested in energy. *The views I express on this blog are my own and do not represent those of my current or former employers*.
+I am a physicist working for a small physics and engineering firm called [Physics, Materials, and Applied Mathematics Research][pmam]. Previously, I was a post-doctoral researcher in [experimental quantum optics][quantumoptics] at the [University of Arizona][uofa]. *The views I express on this blog are my own and do not represent those of my current or former employers*.
    
-This <em>Exploring Energies</em> blog exists for me to think through the issues in transitioning to alternate energy and to share this process with
-you, the educated lay person. I started this blog to encourage myself to share what I learn as I explore an area which I would like to understand better.
-While I am not an expert in energy matters, I am a trained scientist, so I will do my best to support everything I say through the scientific literature or 
-published reports so that you can learn more if you wish.
+I am interested in energy. This <em>Exploring Energies</em> blog exists for me to think through the issues in transitioning to alternate energy and to share this process with you, the educated lay person. I started this blog to encourage myself to share what I learn as I explore an area which I would like to understand better. While I am not an expert in energy matters, I am a trained scientist, so I will do my best to support everything I say through the scientific literature or published reports so that you can learn more if you wish.
 
 [quantumoptics]: http://en.wikipedia.org/wiki/Quantum_optics
 [uofa]: http://www.arizona.edu
