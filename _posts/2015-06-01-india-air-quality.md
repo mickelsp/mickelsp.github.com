@@ -11,7 +11,7 @@ tags : [climate change, air quality, carbon, sources, coal, india]
 
 Given how frequently we read about China's poor air quality in the news, it rather surprises me that only one city in China--and it's not Beijing--falls in the 50-worst cities for air pollution. Instead, India has more cities on this unfortunate list than any other country. New Delhi--the largest of these cities--was ["featured" in a New York Times article][nytimesarticle] about the negative consequences of poor air quality, and that was when I learned that so many Indian cities are choked with air pollution.
 
-To visualize the 50-worst cities in terms of air quality, I mapped them using [some data from the World Health Organization][WHOdata].
+To visualize the 50-worst cities in terms of air quality, I mapped them using [some data from the World Health Organization][WHOdata]:
 
 <div align="center">
 <img src="/images/map_top50cities_airpollution.png" alt="Map showing 50-worst cities for air pollution with particle size below 10 micrometers" width="400" height="200"><br>
@@ -24,7 +24,7 @@ There are multiple reasons why the developing world has a large share of global 
 
 On the positive side, solar energy in India is quite feasible given its [high levels of solar irradiance][indiaIrradiance], and with proper investment and manufacturing prowess (perhaps with help from China), solar power could become a more significant part of India's energy mix. For the Indian people, however, it is a sad reality that, even with increased solar energy, still-heavy reliance on coal means they will face the detrimental effects of air quality for a long time to come.
 
-<div align="center">
+<div align="left">
 <small>Are you interested in the data and the code used to generate the map above? Check out <a href="https://github.com/mickelsp/PollutedCities">my Github repository</a> for the gory details.</small>
 </div><br>
 
