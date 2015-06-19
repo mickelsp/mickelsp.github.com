@@ -15,7 +15,8 @@ I am interested in energy. This <em>Exploring Energies</em> blog exists for me t
 
 <div align="center">
 <em>Follow me via</em><br> <a href="/atom.xml"><img src="/images/rss.jpg"></a> <a href="https://twitter.com/#!/mickelsp"><img src="images/twitter.png"></a>
-<a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="https://plus.google.com/114926118372366903256/"><img src="images/gplus.jpg"></a>
+<a href="http://github.com/mickelsp"><img src="/images/github.png"></a> <a href="https://plus.google.com/114926118372366903256/"><img src="images/gplus.jpg"></a><p>
+<a href="http://orcid.org/0000-0002-5715-6167">My Publications' List via Orcid</a>
 </div>
 
 <hr>
